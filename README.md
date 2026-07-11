@@ -36,7 +36,7 @@
 
 | 名称 | 描述 | Telegram | 详情 |
 |------|------|----------|------|
-| Weight Goal Bot | 群组每周减重目标、照片打卡、进度图、提醒和 53 周成就；支持中文、英语和俄语 | [打开](https://t.me/my_weight_goal_bot) | [详情](bots/weight-goal-bot.md) |
+| Weight Goal Bot | 在群聊里用照片打卡每周体重，查看进度图、提醒和 53 周趣味成就；自然支持中文等 9 种语言 | [打开](https://t.me/my_weight_goal_bot) | [详情](bots/weight-goal-bot.md) |
 
 ## 贡献
 
